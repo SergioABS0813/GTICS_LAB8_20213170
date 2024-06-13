@@ -10,10 +10,12 @@ public class Pokemon {
     Integer idPokemon;
     
     String nombre;
-    
-    String elemento;
 
     Integer userId;
+
+    String lugarEncuentro;
+
+    Float posibilidadCaptura;
 
 
 
